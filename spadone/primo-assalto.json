@@ -148,12 +148,12 @@
           "Thrust in falsata outside, over his sword, to his left temple",
           "mandritto tondo to the legs"
         ],
+        "cpdfl",
+        ["Tira e intra", "cut the mandritto tondo all the way up to intrare"],
         "gil",
-        [
-          "Crossed thrust over his sword to the face, inside on his left side",
-          "half mandritto to his right leg",
-          "right foot steps forward"
-        ],
+        ["Crossed thrust over his sword to the face, inside on his left side", "right foot steps forward"],
+        "beccesa",
+        ["He beats it inward: half mandritto to his right leg"],
         "pdfl",
         ["Parry with the true edge", "right foot steps back beside the left"],
         "facciaf",
@@ -167,7 +167,8 @@
         ],
         "pdfa"
       ],
-      "source": "filmed"
+      "source": "filmed",
+      "marks": {"drop": ["intrare"], "add": [["intrare", 3, 5], ["thrust", 7, 9]]}
     },
     {
       "n": 5,
@@ -178,8 +179,8 @@
         "pdfs",
         ["Thrust in falso over his sword to his face"],
         "cpdfa",
-        ["He beats it: rising roverso ridoppio to the arms", "left foot steps strongly forward"],
-        "gil",
+        ["He beats it: rising roverso ridoppio to the arms"],
+        "becpos",
         [
           "Presa with the left hand",
           "or: mandritto to the head with a tramazzone",
