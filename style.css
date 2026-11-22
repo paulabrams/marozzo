@@ -11,3 +11,13 @@ a { color: var(--red); }
 .card img { width:100%; display:block; border:1px solid #d8ccb0; }
 .links { margin-top: .6em; }
 footer { margin-top: 64px; color: var(--muted); font-size: .85em; border-top:1px solid var(--ink); padding-top: 12px; }
+.crumbs { margin: 0 0 1em; }
+.two { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.two .card { margin: 8px 0 0; }
+@media (max-width: 640px) { .two { grid-template-columns: 1fr; } }
+a.entry { text-decoration: none; color: var(--ink); }
+.entry span { display: block; }
+.entry .name { color: var(--red); font-size: 1.35em; font-style: italic; margin-top: .5em; }
+.entry .sub { margin: 0; }
+.entry .what { margin-top: .2em; }
+.next { margin-top: 2.5em; }
