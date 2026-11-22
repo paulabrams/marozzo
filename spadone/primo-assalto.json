@@ -179,7 +179,7 @@
         "pdfs",
         ["Thrust in falso over his sword to his face"],
         "cpdfa",
-        ["He beats it: rising roverso ridoppio to the arms"],
+        ["He beats it: rising roverso ridoppio to the arms", "left foot steps strongly forward again"],
         "becpos",
         [
           "Presa with the left hand",
@@ -343,8 +343,8 @@
         "becpos",
         ["He beats it out: half mandritto to his right leg", "left foot steps across to the left"],
         "cpdfl",
-        ["Roverso sgualembrato to his right side", "right foot steps in behind the left"],
-        "cld",
+        ["Roverso sgualembrato to his right side", "right foot follows behind the left"],
+        "pdfs",
         ["Fugge e cruove to cover"],
         "cpdfa",
         ["Brandish the sword", "left foot steps behind the right"],
@@ -360,7 +360,7 @@
       "source": "filmed",
       "marks": {
         "drop": ["turns"],
-        "add": [["consentire", 3, 7]]
+        "add": [["consentire", 3, 7], ["thrust", 9, 11]]
       }
     }
   ]
