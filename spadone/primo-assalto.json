@@ -41,16 +41,16 @@
       "title": "Prima parte",
       "steps": [
         "testa",
-        ["Feint a falso impuntato outside his sword", "left foot steps"],
+        ["Feint a falso impuntato outside his sword", "left foot passes forward"],
         "faccial",
-        ["Mandritto to the head with a tramazzone", "right foot steps"],
+        ["Mandritto to the head with a tramazzone", "right foot passes forward"],
         "pdfl",
         [
           "He attacks: parry with the true edge, thrust to his face",
           "right foot steps across in front of the left"
         ],
         "faccia",
-        ["Roverso fendente to the head", "left foot steps to his right side"],
+        ["Roverso fendente to the head", "left foot passes to his right side"],
         "cla",
         [
           "He attacks again: cross the arms, point to his face",
@@ -59,7 +59,7 @@
         "crocef",
         [
           "Rising falso dritto to the hands",
-          "right foot steps two spans back, left foot steps back behind it"
+          "right foot steps two spans back, left foot passes back behind it"
         ],
         "pdfa"
       ],
@@ -80,21 +80,21 @@
         [
           "Beat his falso thrust out with the false edge",
           "crossed thrust to the face",
-          "left foot steps strongly forward"
+          "left foot passes strongly forward"
         ],
         "cla",
         [
           "He takes the bait: rising falso to his right hand",
-          "right foot steps to his left side, left foot steps in behind"
+          "right foot passes to his left side, left foot steps in behind"
         ],
         "pdfst",
-        ["Then a tramazzone", "left foot steps forward"],
+        ["Then a tramazzone", "left foot passes forward"],
         "cpdf",
         ["He attacks: parry in croce", "left foot steps back to the right"],
         "crocef",
         [
           "Rising falso to the hands",
-          "right foot steps two spans back, left foot steps strongly back behind it"
+          "right foot steps two spans back, left foot passes strongly back behind it"
         ],
         "pdfl"
       ],
@@ -128,7 +128,7 @@
         "crocef",
         [
           "Rising falso dritto to the hands",
-          "right foot steps two spans back, then left foot steps behind the right"
+          "right foot steps two spans back, then left foot passes behind the right"
         ],
         "pdfa"
       ],
@@ -142,7 +142,7 @@
       "title": "Quarta parte",
       "steps": [
         "pdfa",
-        ["Tramazzoncello", "left foot steps to his right side"],
+        ["Tramazzoncello", "left foot passes to his right side"],
         "pdfs",
         [
           "Thrust in falsata outside, over his sword, to his left temple",
@@ -151,7 +151,7 @@
         "cpdfl",
         ["Tira e intra", "cut the mandritto tondo all the way up to intrare"],
         "gil",
-        ["Crossed thrust over his sword to the face, inside on his left side", "right foot steps forward"],
+        ["Crossed thrust over his sword to the face, inside on his left side", "right foot passes forward"],
         "beccesa",
         ["He beats it inward: half mandritto to his right leg"],
         "pdfl",
@@ -163,7 +163,7 @@
         "crocef",
         [
           "Rising falso dritto to the hands",
-          "right foot steps two spans back, then left foot steps strongly behind the right"
+          "right foot steps two spans back, then left foot passes strongly behind the right"
         ],
         "pdfa"
       ],
@@ -175,7 +175,7 @@
       "title": "Quinta parte",
       "steps": [
         "pdfa",
-        ["Tramazzone beating his sword", "left foot steps to his right side"],
+        ["Tramazzone beating his sword", "left foot passes to his right side"],
         "pdfs",
         ["Thrust in falso over his sword to his face"],
         "cpdfa",
@@ -184,19 +184,19 @@
         [
           "Presa with the left hand",
           "or: mandritto to the head with a tramazzone",
-          "right foot steps to his left side"
+          "right foot passes to his left side"
         ],
         "pdfl",
         [
           "Parry false edge rising",
           "roverso sgualembrato to his right temple",
-          "left foot steps strongly to his right side"
+          "left foot passes strongly to his right side"
         ],
         "cld",
         [
           "Fugge e cruove",
           "falso parry on an agile hop back",
-          "left foot steps quickly back a little behind the right, then right foot steps back again"
+          "left foot passes quickly back a little behind the right, then right foot passes back again"
         ],
         "pdfs",
         [
@@ -212,19 +212,19 @@
       "title": "Sesta parte",
       "steps": [
         "gil",
-        ["Falso manco tondo", "turn the hands, false edge across, hands high", "right foot steps strongly forward"],
+        ["Falso manco tondo", "turn the hands, false edge across, hands high", "right foot passes strongly forward"],
         "faccia",
         [
           "Feign a tramazzone to his head",
           "then let a roverso drop to his leg",
-          "left foot steps toward his right side"
+          "left foot passes toward his right side"
         ],
         "cpdfl",
         ["Carry it through"],
         "cld",
         [
           "Overhand crossed thrust to his face",
-          "left foot steps behind the right"
+          "left foot passes behind the right"
         ],
         "crocerf",
         [
@@ -245,13 +245,13 @@
       "title": "Settima parte",
       "steps": [
         "pdfa",
-        ["Crossed thrust outside his sword to his left temple", "left foot steps to his right side"],
+        ["Crossed thrust outside his sword to his left temple", "left foot passes to his right side"],
         "cla",
-        ["He opens: rising falso dritto to the hands", "right foot steps to his left side"],
+        ["He opens: rising falso dritto to the hands", "right foot passes to his left side"],
         "pdfst",
-        ["Then a tramazzone", "left foot steps to his right side"],
+        ["Then a tramazzone", "left foot passes to his right side"],
         "pdfs",
-        ["Falso manco, withdraw the arms", "left foot steps behind the right"],
+        ["Falso manco, withdraw the arms", "left foot passes behind the right"],
         "pdfa"
       ],
       "source": "filmed",
@@ -285,7 +285,7 @@
         "crocef",
         [
           "Rising falso with the leg lifted",
-          "right foot steps two spans back, left foot steps strongly behind it"
+          "right foot steps two spans back, left foot passes strongly behind it"
         ],
         "pdfa"
       ],
@@ -304,13 +304,13 @@
           "Crossed thrust outside his sword to the face",
           "uncross the arms over his sword",
           "dritto traversato across the throat or face, with a tramazzone",
-          "left foot steps to his right side, right foot steps forward, then right foot takes a great step back"
+          "left foot passes to his right side, right foot passes forward, then right foot passes a great step back"
         ],
         "pdfs",
         [
           "Beat his blow out with the false edge",
           "mandritto sgualembrato to the face, tramazzone",
-          "right foot steps forward"
+          "right foot passes forward"
         ],
         ["Parry", "right foot steps back to the left"],
         "facciaf",
@@ -320,7 +320,7 @@
         "crocef",
         [
           "Rising falso to the hands",
-          "right foot steps two spans back, then left foot steps back behind it"
+          "right foot steps two spans back, then left foot passes back behind it"
         ],
         "pdfa"
       ],
@@ -331,7 +331,7 @@
       "title": "Decima e ultima parte",
       "steps": [
         "pdfa",
-        ["Embellish: raise the hands, point low, and yield", "right foot steps back behind the left"],
+        ["Embellish: raise the hands, point low, and yield", "right foot passes back behind the left"],
         "consentire",
         ["Right turn: roverso ridoppio"],
         "testar",
@@ -347,9 +347,9 @@
         "pdfs",
         ["Fugge e cruove to cover"],
         "cpdfa",
-        ["Brandish the sword", "left foot steps behind the right"],
+        ["Brandish the sword", "left foot passes behind the right"],
         "testa",
-        ["Mandritto", "right foot steps behind the left"],
+        ["Mandritto", "right foot passes behind the left"],
         "spallas",
         [
           "Right turn, left foot back to the right; left turn, great step",

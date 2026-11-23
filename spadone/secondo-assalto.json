@@ -180,7 +180,7 @@
         [
           "Mandritto tondo to the leg",
           "rising thrust to his right temple, hands crossed over his sword",
-          "right foot steps forward, left foot steps wide across to the left, right foot steps forward again"
+          "right foot passes forward, left foot passes wide across to the left, right foot passes forward again"
         ],
         [
           "He raises his arms: mandritto tondo to his left temple",
@@ -188,17 +188,17 @@
         ],
         [
           "He answers: parry with a tramazzone",
-          "left foot steps back in a traverse, right foot steps after it, crossed"
+          "left foot steps back in a traverse, right foot passes behind it, crossed"
         ],
         "pdfs",
         [
           "Tramazzoncello",
-          "right foot steps forward"
+          "right foot passes forward"
         ],
         "pdfst",
         [
           "He answers: parry",
-          "right foot takes a wide step back"
+          "right foot passes back in a wide step"
         ],
         "gil",
         [
@@ -212,7 +212,7 @@
         "croce",
         [
           "Uncross the arms",
-          "left foot steps behind the right"
+          "left foot passes behind the right"
         ],
         "pdfa"
       ]
@@ -226,12 +226,12 @@
         "pdfa",
         [
           "Falso manco",
-          "left foot steps wide across to his right side"
+          "left foot passes wide across to his right side"
         ],
         "gil",
         [
           "Ponta incrociata, your false edge on his true edge",
-          "right foot takes a gran passo forward"
+          "right foot passes a gran passo forward"
         ],
         [
           "He raises to parry: duck under his sword, edge under his right arm (mandritto ridoppio)",
@@ -243,7 +243,7 @@
         ],
         [
           "Fendente to the head",
-          "left foot steps behind the right"
+          "left foot passes behind the right"
         ],
         "pdfl"
       ]
@@ -263,12 +263,12 @@
         "gombito",
         [
           "Roverso sgualembrato",
-          "left foot steps strongly to his right side"
+          "left foot passes strongly to his right side"
         ],
         "croce",
         [
           "He attacks the head: parry with the falso",
-          "left foot steps strongly behind the right"
+          "left foot passes strongly behind the right"
         ],
         "becpos",
         [
@@ -304,7 +304,7 @@
         [
           "Feint another falso, ponta in falso impuntata over his sword",
           "slice to the face; if he beats it out to his right, roverso to his right leg",
-          "right foot takes a gran passo forward"
+          "right foot passes a gran passo forward"
         ],
         [
           "He attacks: parry",
@@ -318,7 +318,7 @@
         "croce",
         [
           "Fendente dritto",
-          "left foot takes a gran passo behind the right"
+          "left foot passes a gran passo behind the right"
         ],
         "pdfl"
       ]
@@ -331,7 +331,7 @@
         "pdfl",
         [
           "Through guardia di consentire",
-          "right foot steps behind the left"
+          "right foot passes behind the left"
         ],
         "testa",
         [
@@ -340,23 +340,23 @@
         "pdfa",
         [
           "Ponta incrociata outside his right side, true edge on his false",
-          "left foot steps strongly to his right side, right foot follows"
+          "left foot passes strongly to his right side, right foot follows"
         ],
         [
           "He uncovers his left: presa, left arm round his sword, turn the hand onto his hilt"
         ],
         [
           "If he avoids it: two mandritti tondi, face then leg",
-          "right foot steps to his left side, left foot steps behind a little crossed, right foot steps forward"
+          "right foot passes to his left side, left foot steps behind a little crossed, right foot steps forward"
         ],
         [
           "The second mandritto tondo enters, for your cover",
-          "right foot takes a wide step back"
+          "right foot passes back in a wide step"
         ],
         "gil",
         [
           "Roverso trivellato",
-          "right foot steps forward, then steps back to the wide stance"
+          "right foot passes forward, then passes back to the wide stance"
         ],
         "gil"
       ]
@@ -401,7 +401,7 @@
         "gil",
         [
           "Mandritto tondo to the leg, rising thrust over his sword",
-          "left foot takes a wide step to his right, right foot steps forward"
+          "left foot takes a wide step to his right, right foot passes forward"
         ],
         [
           "Mandritto tondo",
@@ -410,7 +410,7 @@
         "facciau",
         [
           "Left hand at the half sword: force his sword down, roverso to face or neck",
-          "left foot steps forward to force his sword down, then steps strongly behind the right as you slice"
+          "left foot steps forward to force his sword down, then passes strongly behind the right as you slice"
         ],
         [
           "Left hand back on your own grip, back to faccia; if he does not wait, mandritto tondo to the leg"
@@ -418,17 +418,17 @@
         "pdfs",
         [
           "The same thrust and mandritto again, or a tramazzoncello",
-          "right foot steps forward"
+          "right foot passes forward"
         ],
         "pdfst",
         [
           "He attacks: defend with a thrust, kick to the stomach, roverso di mezza spada",
-          "left foot steps, right foot kicks, then right foot steps back"
+          "left foot passes, right foot kicks, then right foot passes back"
         ],
         "cld",
         [
           "Retreat, mandritto tondo, roverso trivellato",
-          "left foot, then right foot, steps back"
+          "left foot, then right foot, passes back"
         ],
         "gil"
       ]
@@ -502,7 +502,7 @@
         "ginf",
         [
           "Feint roverso, mandritto tondo to the leg",
-          "left foot steps to his right, right foot steps to his left, then takes a wide step back"
+          "left foot steps to his right, right foot passes to his left, then passes back in a wide step"
         ],
         [
           "Rising falso manco to the hands"
@@ -523,7 +523,7 @@
         "croce",
         [
           "Feint tramazzone, mandritto tondo to the leg",
-          "right foot steps forward, then steps back to the wide stance"
+          "right foot passes forward, then passes back to the wide stance"
         ],
         "gil",
         [
@@ -532,12 +532,12 @@
         "cpdfa",
         [
           "He attacks: beat with the false edge, falso dritto",
-          "right foot steps to his left side"
+          "right foot passes to his left side"
         ],
         "gin",
         [
           "Retreat",
-          "right foot, then left foot, steps back"
+          "right foot, then left foot, passes back"
         ],
         "testa",
         [
@@ -547,7 +547,7 @@
         "faccia",
         [
           "If he draws away: feint to the head, slicing mandritto to the leg",
-          "left foot steps across to his right"
+          "left foot passes across to his right"
         ],
         "cpdf",
         [
@@ -556,7 +556,7 @@
         "pdfl",
         [
           "He attacks: rising falso",
-          "right foot steps back"
+          "right foot passes back"
         ],
         "altal",
         [
@@ -565,7 +565,7 @@
         "pdfs",
         [
           "Feint mezzo mandritto to the face; he raises: roverso trivellato, ponta impuntata",
-          "right foot steps to his left, left foot steps across, right foot steps strongly forward"
+          "right foot passes to his left, left foot passes across, right foot passes strongly forward"
         ],
         "gin",
         [
@@ -587,15 +587,15 @@
             "gil",
             [
               "Falso manco impuntato",
-              "right foot steps strongly forward"
+              "right foot passes strongly forward"
             ],
             [
               "He rises false to false: cross, point to the right of his face",
-              "left foot steps to his left side"
+              "left foot passes to his left side"
             ],
             [
               "He covers: two mandritti",
-              "right foot steps strongly to his left side"
+              "right foot passes strongly to his left side"
             ]
           ]
         },
@@ -605,15 +605,15 @@
             "gil",
             [
               "Thrust from below to the right of his face",
-              "right foot steps"
+              "right foot passes forward"
             ],
             [
               "His falso meets yours: mandritto tondo intrante",
-              "left foot steps forward"
+              "left foot passes forward"
             ],
             [
               "Presa, or roverso di mezza spada; if he retreats, mandritto to the leg",
-              "right foot steps forward"
+              "right foot passes forward"
             ]
           ]
         },
@@ -655,7 +655,7 @@
             "gil",
             [
               "Falso manco striking his sword hard, roverso trivellato",
-              "right foot steps strongly forward"
+              "right foot passes strongly forward"
             ],
             "gil"
           ]
@@ -666,7 +666,7 @@
             "gil",
             [
               "Falso manco, hitting his sword",
-              "right foot steps strongly forward"
+              "right foot passes strongly forward"
             ],
             "faccia",
             [
@@ -686,7 +686,7 @@
             "altal",
             [
               "Roverso",
-              "right foot, then left foot, steps"
+              "right foot, then left foot, passes"
             ],
             "cld"
           ]
