@@ -101,6 +101,14 @@
     "gin": [
       "Guardia d'intrare (non in largo passo)",
       "intrare"
+    ],
+    "megiaspada": [
+      "Megia spada (filo dritto con filo dritto)",
+      "high"
+    ],
+    "cla": [
+      "Coda longa e alta",
+      "high"
     ]
   },
   "parts": [
@@ -108,30 +116,52 @@
       "n": 1,
       "title": "Prima parte",
       "source": "filmed",
-      "note": "Three cuts at the half sword: the hand slides up past the lugs for very fast cuts; the alternative is short half cuts.",
+      "note": "Three short half cuts are shown. In stretta measure you should also try them at the half sword (megia spada), gripping the ricasso with your right hand.",
+      "marks": {"drop": ["intrare"], "add": [["intrare", 1, 7], ["mezza", 9, 15], ["intrare", 17, 17]]},
       "steps": [
         "testa",
         [
-          "Falso dritto down to his hands"
+          "Falso dritto tondo",
+          "horizontal cut with the false edge, hands high"
         ],
         "gin",
         [
-          "Falso manco up to his hands, in one tempo"
+          "Loop back through guardia di testa",
+          "a small loop, hands high"
         ],
-        "pdfa",
+        "testa",
+        [
+          "Falso manco tondo, insieme",
+          "turn the hands, false edge back across, hands high"
+        ],
+        "faccia",
         [
           "Mandritto tondo to the leg",
           "right foot steps forward"
         ],
         "gin",
         [
-          "He attacks head or leg: parry true edge",
-          "three cuts at the half sword: feint roverso, mandritto ridoppio, roverso",
-          "left foot steps to his right side, right foot to his left, then right foot steps back behind the left"
+          "He attacks head or leg: parry true edge"
         ],
+        "megiaspada",
+        [
+          "Feint a roverso of the half sword",
+          "left foot passes toward his right side"
+        ],
+        "cla",
+        [
+          "Mandritto ridoppio of the half sword",
+          "right foot passes toward his left side"
+        ],
+        "gin",
+        [
+          "A real roverso of the half sword",
+          "right foot passes back, fleeing behind the left"
+        ],
+        "cla",
         [
           "Mandritto tondo parry",
-          "right foot steps back"
+          "flee by skipping back with the left and right feet"
         ],
         "gil"
       ]
